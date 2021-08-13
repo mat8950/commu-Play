@@ -1,0 +1,19 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "JEUX PS+",
+      "description": "<@829771977681928222> @『📝』Actualités PS+\n<@829763947758223368>\nVoici les jeux du mois d'Aout",
+      "url": "https://www.playstation.com/fr-fr/ps-plus/this-month-on-ps-plus/?smcid=pdc%3Afr-fr%3Aprimary%20nav%3Amsg-games%3Aps-plus",
+      "color": 15517440,
+      "image": {
+        "url": "https://gmedia.playstation.com/is/image/SIEPDC/ps-plus-monthly-games-featured-image-block-01-en-03aug21?$1600px--t$"
+      },
+      "thumbnail": {
+        "url": "https://gmedia.playstation.com/is/image/SIEPDC/ps-plus-blue-bag-icon-01-22sep20?$400px--t$"
+      }
+    }
+  ],
+  "username": "Playstation",
+  "avatar_url": "https://i0.wp.com/actu-geek.com/wp-content/uploads/2014/02/playstation-logo-1.jpeg?ssl=1"
+}
